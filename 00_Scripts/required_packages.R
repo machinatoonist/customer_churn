@@ -10,7 +10,9 @@ pkgs <- c(
     "skimr",      # Data understanding - summary information
     "fs",         # Working with the file system - directory structure
     "readxl",     # Reading excel files
-    "writexl"     # Writing to excel files
+    "writexl",    # Writing to excel files
+    "renv"        # package version control
 )
 
 install.packages(pkgs)
+

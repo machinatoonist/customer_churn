@@ -37,7 +37,7 @@ inspect_tbl %>%
   mutate(pct = n/sum(n))
 
 # 1B. Understand The Drivers ----
-# Investigate Objectives: 26.5% Attrition
+# Investigate Objectives: 
 # Synthesise Outcomes: High counts and high percentages
 # Hypothesise Drivers: Billing process, engagement
 
